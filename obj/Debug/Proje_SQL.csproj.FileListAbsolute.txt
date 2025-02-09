@@ -1,0 +1,12 @@
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\bin\Debug\Proje_SQL.exe.config
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\bin\Debug\Proje_SQL.exe
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\bin\Debug\Proje_SQL.pdb
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.Form1.resources
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.exe
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.pdb
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.FrmUrunler.resources
+C:\Users\USER01\Desktop\C#\Proje_SQL\Proje_SQL\obj\Debug\Proje_SQL.FrmMusteri.resources
